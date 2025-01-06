@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59314131-ebe3-4299-9c78-9c9ed2bf50dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/m19-postgres.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/hw19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/hw19/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/hw19/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/hw19/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/hw19/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/task1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw19/templates/registration_page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rG6ebFJ5Cnpc6JMfXeD3Rr9Q3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59314131-ebe3-4299-9c78-9c9ed2bf50dc" name="Changes" comment="" />
+      <created>1736173160877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736173160877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
