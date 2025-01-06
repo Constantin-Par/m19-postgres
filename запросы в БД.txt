@@ -1,0 +1,21 @@
+(.venv) D:\Python\PycharmProjects\m19-postgres\hw19 git:[master]
+python manage.py shell
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> from task1.models import Game
+>>> Game.objects.all()
+<QuerySet [<Game: Game_1 without age_limited>, <Game: Game_2 with age_limited>, <Game: Game_3 with age_limited>]>
+>>> Game.objects.count()
+3
+>>> Game.objects.get(id=1)          
+<Game: Game_1 without age_limited>
+>>> Game.objects.create(title='Game_4', cost=4520, size=174753, description='description for game_4', age_limited=False)                                  
+<Game: Game_4>
+>>> Game.objects.count()                                                                                                 
+4
+>>> Game.objects.filter(id=4).update(title='New name for game 4')
+1
+>>> Game.objects.all()
+<QuerySet [<Game: Game_1 without age_limited>, <Game: Game_2 with age_limited>, <Game: Game_3 with age_limited>, <Game: New name for game 4>]>
+>>>
